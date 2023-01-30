@@ -7,6 +7,6 @@
 - ✨Time Complexity ✨
 - ✨Recusrsion  (My fav) ✨
 
-| Day | Date | Problem | Type
-| ------ | ------ | ------ | ------ | 
-| 01 | 30-Jan-2023 | 2418. Sort the people | String
+| Day | Date | Problem | Type | Difficulty
+| ------ | ------ | ------ | ------ | ------ | 
+| 01 | 30-Jan-2023 | 2418. Sort the people | String | Easy
