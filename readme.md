@@ -10,3 +10,4 @@
 | Day | Date | Problem | Type | Difficulty
 | ------ | ------ | ------ | ------ | ------ | 
 | 01 | 30-Jan-2023 | 2418. Sort the people | String | Easy
+| 02 | 31-Jan-2023 | 1732. Find the Highest Altitude | Array | Easy
